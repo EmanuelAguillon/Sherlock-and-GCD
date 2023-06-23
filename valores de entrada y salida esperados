@@ -1,0 +1,15 @@
+
+Valores de entrada 
+3
+3
+1 2 3
+2
+2 4
+3
+5 5 5
+Valores de salida 
+YES
+NO
+NO
+
+Los valores de salida se imprimiran de tal manera que el programa sea validado por HackerRank 
